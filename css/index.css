@@ -51,6 +51,7 @@ section h2{
 	margin-bottom: .5em;
 }
 
+
 table{
 	width: 100%;
 	margin-bottom : .5em;
@@ -144,4 +145,15 @@ button[disabled=disabled], button:disabled {
 .fadeOut {
 	opacity: 0;
 	transition: 1.0s;
+}
+
+#filtrar-tabela {
+	width: 200px;
+	height: 30px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+.invisivel {
+	display: none;
 }
